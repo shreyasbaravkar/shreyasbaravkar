@@ -43,9 +43,15 @@
 
 ---
 
+---
+
 # 🌟 Featured Projects
 
 <br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 📈 Bitcoin Price Analysis & Forecasting
 
@@ -53,12 +59,14 @@
 🔹 Data visualization & trend analysis  
 🔹 Predictive analytics using Python  
 
-🛠️ **Tech Used:**  
+<br>
+
+🛠️ **Tech Used**  
 Python • Pandas • Matplotlib • Prophet • Statsmodels
 
----
+</td>
 
-<br>
+<td width="50%" valign="top">
 
 ## 🏥 Disease Prediction System
 
@@ -66,25 +74,37 @@ Python • Pandas • Matplotlib • Prophet • Statsmodels
 🔹 SQL database integration  
 🔹 Region-based disease analysis  
 
-🛠️ **Tech Used:**  
-Python • SQL • Machine Learning
-
----
-
 <br>
 
-## 📊 Interactive Power BI Dashboard
+🛠️ **Tech Used**  
+Python • SQL • Machine Learning
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📊 Interactive Tableau Dashboard
 
 🔹 Advanced KPI dashboard creation  
 🔹 Dynamic filtering & analytics  
 🔹 Business intelligence visualizations  
 
-🛠️ **Tech Used:**  
-Power BI • DAX • Data Analytics
-
----
-
 <br>
+
+🛠️ **Tech Used**  
+Tableau • Data Analytics • Visualization
+
+</td>
+
+<td width="50%" valign="top">
 
 ## ☁️ Airport Management System
 
@@ -92,8 +112,18 @@ Power BI • DAX • Data Analytics
 🔹 Database-driven backend integration  
 🔹 GUI-based application using Python  
 
-🛠️ **Tech Used:**  
+<br>
+
+🛠️ **Tech Used**  
 Python • SQL • Database Management
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 
 
