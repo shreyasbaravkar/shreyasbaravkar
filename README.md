@@ -47,13 +47,19 @@
 
 # 🌟 Featured Projects
 
+---
+
+# 🌟 Featured Projects
+
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## 📈 Bitcoin Price Analysis & Forecasting
+
+> _Forecasting market trends using Machine Learning & Time Series Analytics_
 
 🔹 Time series forecasting using ARIMA & Prophet  
 🔹 Data visualization & trend analysis  
@@ -66,9 +72,13 @@ Python • Pandas • Matplotlib • Prophet • Statsmodels
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ## 🏥 Disease Prediction System
+
+> _AI-powered healthcare prediction system for regional disease analysis_
 
 🔹 Healthcare prediction system using ML  
 🔹 SQL database integration  
@@ -81,17 +91,17 @@ Python • SQL • Machine Learning
 
 </td>
 </tr>
+</table>
 
-<tr>
-<td colspan="2">
 <br><br>
-</td>
-</tr>
 
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## 📊 Interactive Tableau Dashboard
+
+> _Business intelligence dashboard with advanced KPI visualization_
 
 🔹 Advanced KPI dashboard creation  
 🔹 Dynamic filtering & analytics  
@@ -104,9 +114,13 @@ Tableau • Data Analytics • Visualization
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ## ☁️ Airport Management System
+
+> _Database-driven airport management application with GUI integration_
 
 🔹 Passenger management system  
 🔹 Database-driven backend integration  
