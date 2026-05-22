@@ -147,3 +147,65 @@ Python • SQL • Database Management
 
 
 
+# 🏆 Certifications
+
+<br>
+
+🏅 Enhancing Soft Skills and Personailty - NPTEL  
+
+🏅 AI for Everyone - Coursera 
+
+🏅 Agile with Atlassian Jira - Coursera   
+
+🏅 Getting Started with Tableau - Coursera
+
+🏅 Chatgpt For beginners - Great Learning
+
+<br>
+
+---
+
+# 🌐 Connect With Me
+
+<br>
+
+<p align="center">
+
+<a href="www.linkedin.com/in/shreyas-baravkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:sbaravkar101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shreyasbaravkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shreyasbaravkar&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<br>
+
+<h3 align="center">
+✨ Building AI, Data & Analytics Projects One Step At A Time ✨
+</h3>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1E90FF&height=120&section=footer"/>
+
