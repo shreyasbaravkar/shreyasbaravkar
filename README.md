@@ -5,7 +5,7 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Building+Machine+Learning+Projects;Power+BI+Dashboard+Developer;Blockchain+%26+IPFS+Researcher;Cloud+%26+Data+Analytics+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer" />
 </p>
 
 
