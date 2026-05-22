@@ -40,13 +40,7 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 
-<img src="https://img.shields.io/badge/Data_Analytics-00C2FF?style=for-the-badge&logo=databricks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
-
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
