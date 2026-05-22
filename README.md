@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shreyas Baravkar</h1>
-
-<h3 align="center">
-AI & Data Science Enthusiast • ML Builder • Research Explorer
-</h3>
+--- 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer" />
 </p>
 
-
 ---
+
 
 # 🚀 About Me
 
@@ -19,8 +16,6 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 - 🔗 Researching Blockchain + IPFS systems
 - 🧠 Interested in NLP, GenAI  and Computer Vision
 - 📍 Based in Pune, India
-
-
 ---
 
 # 💻 Tech Stack
@@ -45,13 +40,7 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 
 </p>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1E90FF&height=120&section=footer"/>
-
-
-
----
-
 
 ---
 
