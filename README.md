@@ -9,11 +9,6 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 </p>
 
 
-<p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
-</p>
-
-
 ---
 
 # 🚀 About Me
@@ -57,11 +52,12 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 
 ---
 
+
+---
+
 # 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
 ## 📈 Bitcoin Price Analysis & Forecasting
 
@@ -69,12 +65,12 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 🔹 Data visualization & trend analysis  
 🔹 Predictive analytics using Python  
 
-🛠️ Tech Used:  
+🛠️ **Tech Used:**  
 Python • Pandas • Matplotlib • Prophet • Statsmodels
 
-</td>
+---
 
-<td width="50%">
+<br>
 
 ## 🏥 Disease Prediction System
 
@@ -82,14 +78,12 @@ Python • Pandas • Matplotlib • Prophet • Statsmodels
 🔹 SQL database integration  
 🔹 Region-based disease analysis  
 
-🛠️ Tech Used:  
+🛠️ **Tech Used:**  
 Python • SQL • Machine Learning
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+<br>
 
 ## 📊 Interactive Power BI Dashboard
 
@@ -97,12 +91,12 @@ Python • SQL • Machine Learning
 🔹 Dynamic filtering & analytics  
 🔹 Business intelligence visualizations  
 
-🛠️ Tech Used:  
+🛠️ **Tech Used:**  
 Power BI • DAX • Data Analytics
 
-</td>
+---
 
-<td width="50%">
+<br>
 
 ## ☁️ Airport Management System
 
@@ -110,15 +104,8 @@ Power BI • DAX • Data Analytics
 🔹 Database-driven backend integration  
 🔹 GUI-based application using Python  
 
-🛠️ Tech Used:  
+🛠️ **Tech Used:**  
 Python • SQL • Database Management
-
-</td>
-</tr>
-</table>
-
-
----
 
 
 
