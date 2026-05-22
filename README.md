@@ -55,4 +55,100 @@ AI & Data Science Enthusiast • ML Builder • Research Explorer
 
 
 
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📈 Bitcoin Price Analysis & Forecasting
+
+🔹 Time series forecasting using ARIMA & Prophet  
+🔹 Data visualization & trend analysis  
+🔹 Predictive analytics using Python  
+
+🛠️ Tech Used:  
+Python • Pandas • Matplotlib • Prophet • Statsmodels
+
+</td>
+
+<td width="50%">
+
+## 🏥 Disease Prediction System
+
+🔹 Healthcare prediction system using ML  
+🔹 SQL database integration  
+🔹 Region-based disease analysis  
+
+🛠️ Tech Used:  
+Python • SQL • Machine Learning
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📊 Interactive Power BI Dashboard
+
+🔹 Advanced KPI dashboard creation  
+🔹 Dynamic filtering & analytics  
+🔹 Business intelligence visualizations  
+
+🛠️ Tech Used:  
+Power BI • DAX • Data Analytics
+
+</td>
+
+<td width="50%">
+
+## ☁️ Airport Management System
+
+🔹 Passenger management system  
+🔹 Database-driven backend integration  
+🔹 GUI-based application using Python  
+
+🛠️ Tech Used:  
+Python • SQL • Database Management
+
+</td>
+</tr>
+</table>
+
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
 
