@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📊-Data%20%26%20AI%20Analyst-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-orange?style=for-the-badge" />
+</p>
+
+---
 
 ## About Me
 
@@ -80,12 +86,12 @@
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Enhancing%20Soft%20Skills%20%26%20Personality-brightgreen?style=flat-square" /><br/>
-  <img src="https://img.shields.io/badge/Coursera-AI%20for%20Everyone-blue?style=flat-square&logo=coursera&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Coursera-Agile%20with%20Atlassian%20Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Coursera-Getting%20Started%20with%20Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Great%20Learning-ChatGPT%20for%20Beginners-10A37F?style=flat-square&logo=openai&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/NPTEL-Enhancing%20Soft%20Skills%20%26%20Personality-brightgreen?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/Coursera-AI%20for%20Everyone-blue?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/Coursera-Agile%20with%20Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/Coursera-Getting%20Started%20with%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/Great%20Learning-ChatGPT%20for%20Beginners-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -93,7 +99,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/shreyasbaravkar" alt="Shreyas's GitHub contribution grid" />
+  <img src="https://ghchart.rshah.org/39d353/shreyasbaravkar" alt="Shreyas's GitHub contribution grid" />
 </p>
 
 ---
