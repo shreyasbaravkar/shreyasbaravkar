@@ -1,18 +1,119 @@
-# 💫 About Me:
-Final-year Computer Science student building real-world Data Analytics and AI projects — from Power BI dashboards to LLM-powered systems. Skilled in Python, SQL, and ML, with hands-on experience across OCR, forecasting, and BI. ACM Student Chapter Treasurer. Actively seeking roles in Data Analytics, Power BI, and AI Engineering.<br><br>
+<h1 align="center">Hi there, I'm Shreyas Baravkar</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI%2FML+Enthusiast;Power+BI+%2B+Tableau+Dashboards;Building+GenAI+%26+NLP+Projects;Blockchain+%2B+IPFS+Researcher" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shreyas Baravkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbaravkar101@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/📊-Data%20%26%20AI%20Analyst-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-orange?style=for-the-badge" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreyasbaravkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreyasbaravkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyasbaravkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📊 I build data pipelines and dashboards that turn raw numbers into decisions — Power BI, Tableau, and Python are my daily tools
+- 🤖 I design and ship AI-powered systems, from OCR + LLM invoice extraction to time-series forecasting models
+- 🔗 I research Blockchain + IPFS architectures for decentralized data systems
+- 🧠 I work across the full analytics stack — data cleaning, statistical modeling, ML, and visualization
+- 🎯 Actively looking for roles in **Data Analytics, Power BI, and AI Engineering**
+- 💬 Let's talk data pipelines, dashboards, or LLM-powered applications
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shreyasbaravkar/AI-Invoice-Intelligence-System">
+        <h3>🧾 AI Invoice Intelligence System</h3>
+      </a>
+      <p>Automated document data extraction pipeline combining OCR and an LLM</p>
+      <ul>
+        <li>OCR text extraction with Tesseract</li>
+        <li>LLM-based field parsing using Phi-3 Mini</li>
+        <li>Regex validation + Streamlit UI</li>
+      </ul>
+      <b>Tech:</b> Python • Tesseract OCR • Phi-3 Mini • Streamlit<br/><br/>
+      <a href="https://github.com/shreyasbaravkar/AI-Invoice-Intelligence-System">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shreyasbaravkar/Amazon-Sales-Dashboard-PowerBI">
+        <h3>📊 Amazon Sales Dashboard (Power BI)</h3>
+      </a>
+      <p>Business intelligence dashboard with advanced KPI visualization</p>
+      <ul>
+        <li>178K+ record dataset analysis</li>
+        <li>DAX-powered KPI calculations</li>
+        <li>Dynamic filtering & slicers</li>
+      </ul>
+      <b>Tech:</b> Power BI • DAX • Data Analytics<br/><br/>
+      <a href="https://github.com/shreyasbaravkar/Amazon-Sales-Dashboard-PowerBI">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Enhancing%20Soft%20Skills%20%26%20Personality-brightgreen?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Coursera-AI%20for%20Everyone-blue?style=flat-square&logo=coursera&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Coursera-Agile%20with%20Atlassian%20Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Coursera-Getting%20Started%20with%20Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Great%20Learning-ChatGPT%20for%20Beginners-10A37F?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/shreyasbaravkar" alt="Shreyas's GitHub contribution grid" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/shreyasbaravkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — every project here is a step toward building real, usable data & AI solutions.<br/>Open to opportunities and always up for a good conversation about data. Let's connect.</i>
+</p>
