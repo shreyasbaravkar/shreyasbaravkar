@@ -6,11 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📊-Data%20%26%20AI%20Analyst-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-orange?style=for-the-badge" />
-</p>
-
 ---
 
 ## About Me
@@ -99,7 +94,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/shreyasbaravkar" alt="Shreyas's GitHub contribution grid" />
+  <img src="https://gitcolors.vercel.app/api/svg?username=shreyasbaravkar&color=39d353&theme=dark&mode=levels" alt="Shreyas's GitHub contribution grid" />
 </p>
 
 ---
@@ -113,7 +108,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Thanks for stopping by — every project here is a step toward building real, usable data & AI solutions.<br/>Open to opportunities and always up for a good conversation about data. Let's connect.</i>
-</p>
